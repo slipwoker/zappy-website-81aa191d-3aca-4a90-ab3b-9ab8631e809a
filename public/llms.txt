@@ -1,0 +1,69 @@
+# תורה ישראלית לכתחילה — Generative Engine Optimization Map
+
+> A תנועה חברתית/דתית business.
+
+---
+
+## Pages
+
+### Home
+https://-81aa191d.zappy5.app
+לכתחילה - תנועה להצמחת תורה ישראלית. תנועה ומיזם דינמי להביא את התורה אל הדור הזה, לחדש בה ולבנות קומה חדשה מעבר לדתיות ולחילוניות.
+
+### Donations
+https://-81aa191d.zappy5.app/donations/
+הצטרפו לתנועת לכתחילה לתמיכה בחזון תורה ישראלית. ביחד נפיח חיים חדשים בתורת ארץ ישראל ונפתח תכנים המחברים בין מסורת לחידוש.
+
+### Allpartners
+https://-81aa191d.zappy5.app/allpartners/
+חברים ושותפים של לכתחילה - תנועה להצמחת תורה ישראלית. רשימת החברים והתומכים שלנו כולל אלון ארבץ, יעקב קרנץ, חנני רויכמן, דרור שוגרמן, טוביה ואסתר שלזינגר, יוני שוויקה ודרור דוידוף.
+
+### Checkout
+https://-81aa191d.zappy5.app/checkout/
+עמוד תשלום מאובטח לכתחילה - תנועה להצמחת תורה ישראלית. השלימו את ההזמנה שלכם וקבלו את החוברת לאכול כשר בחו״ל ללא עלות במנוי חודשי או תשלום חד פעמי.
+
+### Israeli Torah Vision And Realization
+https://-81aa191d.zappy5.app/product/israeli-torah-vision-and-realization/
+תורה ישראלית – חזון ומימוש. לכתחילה - תנועה להצמחת תורה ישראלית - דף מוצר המציג את החזון והמימוש של תורה ישראלית
+
+### Privacy Policy
+https://-81aa191d.zappy5.app/privacy-policy/
+מדיניות הפרטיות של לכתחילה - תנועה להצמחת תורה ישראלית. מידע מפורט על איסוף, שימוש והגנה על המידע האישי שלך בהתאם לחוק הגנת הפרטיות התשמ"א–1981 ותיקון 13.
+
+### הצהרת נגישות
+https://-81aa191d.zappy5.app/הצהרת-נגישות/
+הצהרת נגישות של לכתחילה - תנועה להצמחת תורה ישראלית. האתר מותאם לדפדפנים נפוצים, לשימוש בטלפון סלולרי, לתצוגה במגוון מסכים ורזולוציות, עם ניווט פשוט וברור ותוכן נגיש.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-81aa191d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-81aa191d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-81aa191d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תורה ישראלית לכתחילה
+תורה ישראלית לכתחילה is a business in the תנועה חברתית/דתית industry.
+
+## Target Audience
+מעוניינים בתורה ישראלית ובחזון התנועה
+
+## Industry
+תנועה חברתית/דתית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-81aa191d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-81aa191d.zappy5.app/robots.txt
